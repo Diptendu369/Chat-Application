@@ -9,12 +9,8 @@ User Authentication: Secure user authentication using JSON Web Tokens (JWT).
 Persistent Data Storage: Messages are stored in a MongoDB database, ensuring data persistence.
 Responsive Design: Utilizes React with Tailwind CSS and DaisyUI for a responsive and modern UI design.
 Installation
-Clone the repository:
 
-bash
-Copy code
-git clone [https://github.com/SACHINKUMAR1728/SOCKETTALKER.git](https://github.com/SACHINKUMAR1728/SOCKETTALKER.git)
-Navigate to the project directory:
+
 
 bash
 Copy code
@@ -46,15 +42,17 @@ npm run server
 # Start client
 cd ../frontend
 npm run dev
-Open your browser and visit http://localhost:5173 to view the application.
+Open your browser and visit http://localhost:8080 to view the application.
 
 Technologies Used
+-------------------
 Frontend:
 
 React.js
 Tailwind CSS
 DaisyUI
 Socket.IO Client
+-------------------
 Backend:
 
 Node.js
@@ -63,3 +61,4 @@ MongoDB
 Socket.IO
 Contributing
 Contributions are welcome! Please follow the contribution guidelines.
+---------------------------------------------------------------------
